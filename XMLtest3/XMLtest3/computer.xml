@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer>
+    <ComputerMonitor size="15">SAMSUNG</ComputerMonitor>
+    <Keyboard>
+        <KeyboardAttribute>cherry Mechanical Keyboard</KeyboardAttribute>
+    </Keyboard>
+    <CPU series="XEON">intel</CPU>
+</computer>
